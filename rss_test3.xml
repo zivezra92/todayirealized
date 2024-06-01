@@ -8,13 +8,13 @@
         <itunes:summary>
             היי, אני נטע. אני אוהבת לחשוב. ולחשוב. ולנתח כל פרט. ואז - להגיע למסקנות. ואתם צריכים לשמוע אותן. זאת לא אופציה. אז הכינו את המוח שלכם לכל פנינות החוכמה שתקבלו כאן. אל תדאגו, אתם תקבלו הסבר על כל צעד וצעד בדרך שהביאה אותי למסקנה. ואם אתם עדיין לא מבינים? כנראה שאתם פשוט לא עמוקים מספיק.        
         </itunes:summary>
-        <itunes:subtitle>המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)</itunes:subtitle>
         <itunes:explicit>No</itunes:explicit>
         <item>
           <title>טריילר</title>
           <description>טריילר לפודקסט החם של השנה</description>
           <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="478969" type="video/mp4"/>
           <itunes:explicit>No</itunes:explicit>
+          <itunes:duration>00:30</itunes:duration>
         </item>
     </channel>
 </rss>
