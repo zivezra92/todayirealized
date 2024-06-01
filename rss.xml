@@ -17,20 +17,20 @@
         <itunes:explicit>No</itunes:explicit>
         <item>
           <title>טריילר</title>
-          <link>https://www.example.com</link>
+          <link>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</link>
           <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
           <description>טריילר לפודקסט החם של השנה</description>
-          <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="243377" type="video/mp4"/>
+          <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="478969" type="video/mp4"/>
           <guid>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
           <itunes:explicit>No</itunes:explicit>
         </item>
         <item>
           <title>מסקנה 1 - העורב</title>
-          <link>https://www.example.com</link>
+          <link>https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</link>
           <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
           <description>טריילר לפודקסט החם של השנה</description>
-          <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d2oaLyIf7wc_-rDOHgBuLHs84jpFamGu" length="4093620" type="audio/mpeg"/>
-          <guid>https://drive.google.com/uc?export=download&amp;id=1d2oaLyIf7wc_-rDOHgBuLHs84jpFamGu</guid>
+          <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5" length="7948856" type="video/mp4"/>
+          <guid>https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</guid>
           <itunes:explicit>No</itunes:explicit>
         </item>
     </channel>
