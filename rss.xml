@@ -13,14 +13,14 @@
         <language>heb</language>
         <copyright>kiki copyright 2024</copyright>
         <itunes:image href="https://drive.google.com/file/d/1cuHF6TtzK8xmlcY6kIolM422us5xMlpg/view?usp=sharing"/>
-        <itunes:category text="Nonsense"/>
+        <itunes:category text="Leisure"/>
         <item>
           <title>טריילר</title>
-          <link>https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=drive_link</link>
+          <link>https://drive.google.com/uc?export=download&id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</link>
           <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
           <description>טריילר לפודקסט החם של השנה</description>
-          <enclosure url="https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=drive_link" length="243377" type="audio/mpeg"/>
-          <guid>https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=drive_link</guid>
+          <enclosure url="https://drive.google.com/uc?export=download&id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="243377" type="audio/mpeg"/>
+          <guid>https://drive.google.com/uc?export=download&id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
         </item>
     </channel>
 </rss>
