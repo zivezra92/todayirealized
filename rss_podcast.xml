@@ -24,7 +24,7 @@
             <pubDate>Fri, 1 Jun 2024 05:00:00 PDT</pubDate>
             <description>טריילר לפודקסט החם של השנה</description>
             <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="478969" type="video/mp4"/>
-            <guid>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
+            <guid>1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:30</itunes:duration>
         </item>
@@ -34,20 +34,9 @@
             <pubDate>Fri, 1 Jun 2024 06:00:00 PDT</pubDate>
             <description>ובו תשמעו על המסקנה היומית הראשונה של נטע</description>
             <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5" length="7948856" type="video/mp4"/>
-            <guid>https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</guid>
+            <guid>1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</guid>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>08:34</itunes:duration>
-        </item>
-        <item>
-            <title>ניסוי 3</title>
-            <link>https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=sharing</link>
-            <pubDate>Fri, 1 Jun 2024 06:40:00 PDT</pubDate>
-            <description>איפה אני אשים את הטבעת, על הלולב?</description>
-            <image href="https://drive.google.com/uc?export=download&amp;id=1h7z1mgWT4I5c_fGvrxqQP2p5bHhWILke"></image>
-            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" type="audio/mpeg"/>
-            <guid>1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
-            <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>00:30</itunes:duration>
         </item>
     </channel>
 </rss>
