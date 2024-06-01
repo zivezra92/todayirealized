@@ -1,0 +1,24 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>היום הגעתי למסקנה</title>
+        <link>https://www.example.com</link>
+        <image>
+            <url>http://www.example.com/image3000x3000.png</url>
+            <title>היום הגעתי למסקנה</title>
+            <link>https://www.example.com</link>
+        </image>
+        <description>
+            המסקנות היומיות של נטע
+        </description>
+        <language>heb</language>
+        <copyright>kiki copyright 2024</copyright>
+        <item>
+          <title>טריילר</title>
+          <link>https://drive.google.com/file/d/1Iceh_oXRkA8W93D7XhO-zaWCSQMmIQq7/view?usp=sharing</link>
+          <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
+          <description>טריילר לפודקסט החם של השנה</description>
+          <enclosure url="https://drive.google.com/file/d/1Iceh_oXRkA8W93D7XhO-zaWCSQMmIQq7/view?usp=sharing" length="243377" type="audio/mpeg"/>
+          <guid>https://drive.google.com/file/d/1Iceh_oXRkA8W93D7XhO-zaWCSQMmIQq7/view?usp=sharing</guid>
+        </item>
+    </channel>
+</rss>
