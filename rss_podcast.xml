@@ -39,24 +39,13 @@
             <itunes:duration>08:34</itunes:duration>
         </item>
         <item>
-            <title>ניסוי 1</title>
+            <title>ניסוי 3</title>
             <link>https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=sharing</link>
-            <pubDate>Fri, 1 Jun 2024 06:30:00 PDT</pubDate>
-            <itunes:summary>איפה אני אשים את הטבעת, על הלולב?</itunes:summary>
-            <iteuns:image href="https://drive.google.com/uc?export=download&amp;id=1h7z1mgWT4I5c_fGvrxqQP2p5bHhWILke"></iteuns:image>
+            <pubDate>Fri, 1 Jun 2024 06:40:00 PDT</pubDate>
+            <description>איפה אני אשים את הטבעת, על הלולב?</description>
+            <image href="https://drive.google.com/uc?export=download&amp;id=1h7z1mgWT4I5c_fGvrxqQP2p5bHhWILke"></image>
             <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" type="audio/mpeg"/>
             <guid>1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
-            <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>00:30</itunes:duration>
-        </item>
-        <item>
-            <title>ניסוי 2</title>
-            <link>https://drive.google.com/file/d/1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ/view?usp=sharing</link>
-            <pubDate>Fri, 1 Jun 2024 06:30:00 PDT</pubDate>
-            <itunes:summary>איפה אני אשים את הטבעת, על הלולב?</itunes:summary>
-            <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1h7z1mgWT4I5c_fGvrxqQP2p5bHhWILke"></itunes:image>
-            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" type="audio/mpeg"/>
-            <guid>2</guid>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:30</itunes:duration>
         </item>
