@@ -1,15 +1,18 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>היום הגעתי למסקנה</title>
-        <link>https://www.example.com</link>
         <image>
             <url>https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg</url>
             <title>היום הגעתי למסקנה</title>
             <link>www.example.com</link>
         </image>
         <description>
-            המסקנות היומיות של נטע
+            המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)
         </description>
+        <itunes:summary>
+            היי, אני נטע. אני אוהבת לחשוב. ולחשוב. ולנתח כל פרט. ואז - להגיע למסקנות. ואתם צריכים לשמוע אותן. זאת לא אופציה. אז הכינו את המוח שלכם לכל פנינות החוכמה שתקבלו כאן. אל תדאגו, אתם תקבלו הסבר על כל צעד וצעד בדרך שהביאה אותי למסקנה. ואם אתם עדיין לא מבינים? כנראה שאתם פשוט לא עמוקים מספיק.        
+        </itunes:summary>
+        <itunes:subtitle>המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)</itunes:subtitle>
         <language>heb</language>
         <copyright>kiki copyright 2024</copyright>
         <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg"/>
