@@ -2,20 +2,21 @@
     <channel>
         <title>היום הגעתי למסקנה</title>
         <image>
-            <url>https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg</url>
+            <url>https://drive.google.com/uc?export=download&amp;id=1HvqOhQ1KqXcy7UD804DyLzlwGhZRiJZY</url>
             <title>היום הגעתי למסקנה</title>
             <link>www.example.com</link>
         </image>
         <description>
             המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)
         </description>
+        <itunes:author>Neta</itunes:author>
         <itunes:summary>
             היי, אני נטע. אני אוהבת לחשוב. ולחשוב. ולנתח כל פרט. ואז - להגיע למסקנות. ואתם צריכים לשמוע אותן. זאת לא אופציה. אז הכינו את המוח שלכם לכל פנינות החוכמה שתקבלו כאן. אל תדאגו, אתם תקבלו הסבר על כל צעד וצעד בדרך שהביאה אותי למסקנה. ואם אתם עדיין לא מבינים? כנראה שאתם פשוט לא עמוקים מספיק.        
         </itunes:summary>
         <itunes:subtitle>המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)</itunes:subtitle>
         <language>heb</language>
-        <copyright>kiki copyright 2024</copyright>
-        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg"/>
+        <copyright>Neta copyright 2024</copyright>
+        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1HvqOhQ1KqXcy7UD804DyLzlwGhZRiJZY"/>
         <itunes:category text="Leisure"/>
         <itunes:explicit>No</itunes:explicit>
         <item>
