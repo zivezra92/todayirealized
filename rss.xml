@@ -14,6 +14,7 @@
         <copyright>kiki copyright 2024</copyright>
         <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg"/>
         <itunes:category text="Leisure"/>
+        <itunes:explicit>No</itunes:explicit>
         <item>
           <title>טריילר</title>
           <link>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</link>
@@ -21,6 +22,7 @@
           <description>טריילר לפודקסט החם של השנה</description>
           <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="243377" type="video/mp4"/>
           <guid>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
+          <itunes:explicit>No</itunes:explicit>
         </item>
     </channel>
 </rss>
