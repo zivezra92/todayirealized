@@ -1,15 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>היום הגעתי למסקנה</title>
-        <link>https://www.example.com</link>
-        <image>
-            <url>https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg</url>
-            <title>היום הגעתי למסקנה</title>
-            <link>www.example.com</link>
-        </image>
-        <description>
-            המסקנות היומיות של נטע
-        </description>
         <language>heb</language>
         <copyright>kiki copyright 2024</copyright>
         <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1cuHF6TtzK8xmlcY6kIolM422us5xMlpg"/>
@@ -21,8 +12,6 @@
         <itunes:explicit>No</itunes:explicit>
         <item>
           <title>טריילר</title>
-          <link>www.example.com</link>
-          <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
           <description>טריילר לפודקסט החם של השנה</description>
           <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="478969" type="video/mp4"/>
           <itunes:explicit>No</itunes:explicit>
