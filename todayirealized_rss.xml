@@ -4,12 +4,11 @@
         <image>
             <url>https://drive.google.com/uc?export=download&amp;id=1HvqOhQ1KqXcy7UD804DyLzlwGhZRiJZY</url>
             <title>היום הגעתי למסקנה</title>
-            <link>www.example.com</link>
         </image>
         <description>
             המסקנות היומיות של נטע (כל אחת מיוחדת ושונה מהקודמת!)
         </description>
-        <itunes:author>Neta</itunes:author>
+        <itunes:author>נטע</itunes:author>
         <itunes:summary>
             היי, אני נטע. אני אוהבת לחשוב. ולחשוב. ולנתח כל פרט. ואז - להגיע למסקנות. ואתם צריכים לשמוע אותן. זאת לא אופציה. אז הכינו את המוח שלכם לכל פנינות החוכמה שתקבלו כאן. אל תדאגו, אתם תקבלו הסבר על כל צעד וצעד בדרך שהביאה אותי למסקנה. ואם אתם עדיין לא מבינים? כנראה שאתם פשוט לא עמוקים מספיק.        
         </itunes:summary>
@@ -21,20 +20,16 @@
         <itunes:explicit>No</itunes:explicit>
         <item>
           <title>טריילר</title>
-          <link>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</link>
-          <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
+          <pubDate>Fri, 1 Jun 2020 13:00:00 CET</pubDate>
           <description>טריילר לפודקסט החם של השנה</description>
           <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ" length="478969" type="video/mp4"/>
-          <guid>https://drive.google.com/uc?export=download&amp;id=1UwABS4UDMV6ckdmezZycOq3p6w7i5STQ</guid>
           <itunes:explicit>No</itunes:explicit>
         </item>
         <item>
           <title>מסקנה 1 - העורב</title>
-          <link>https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</link>
-          <pubDate>Fri, 1 Jun 2020 16:00:00 PDT</pubDate>
+          <pubDate>Fri, 1 Jun 2020 14:00:00 CET</pubDate>
           <description>ובו תשמעו על המסקנה היומית הראשונה של נטע</description>
           <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5" length="7948856" type="video/mp4"/>
-          <guid>https://drive.google.com/uc?export=download&amp;id=1g_JBxQbXetQjm-fSyvfeuDHLQ7OZaSi5</guid>
           <itunes:explicit>No</itunes:explicit>
         </item>
     </channel>
